@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  width: 250px;
+  margin: 0px auto;
+  padding: 40px;
+}
+
+.mainContant, .categoryRow {
+  border: 1px black solid;
+}
