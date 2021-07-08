@@ -1,3 +1,2 @@
-There are five react projects in this repository, please check this.
-Hi I am here. 
-From desktop website.
+There are five react projects in this repository.
+Those are simple projects for learning react js.
