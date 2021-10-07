@@ -1,3 +1,3 @@
 # React-Project
 
-All of my react practise project. 
+Some of my react project. 
