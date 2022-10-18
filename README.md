@@ -1,3 +1,9 @@
-# React-Project
+# React-Projects
 
-Some of my react project. 
+React practise projects. 
+
+* product-list
+* react-crud
+* tic-tac-toe
+* todo-app
+* todo-list
