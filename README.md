@@ -1,6 +1,6 @@
 # React-Projects
 
-React practise projects. 
+Some React projects. 
 
 * product-list
 * react-crud
