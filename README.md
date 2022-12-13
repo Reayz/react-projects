@@ -1,6 +1,4 @@
-# React-Projects
-
-Some React projects. 
+Some of my react projects
 
 * product-list
 * react-crud
